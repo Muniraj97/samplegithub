@@ -9,6 +9,13 @@ public class CompanyName {
 			f.mkdirs();	
 			System.out.println("hi");
 			System.out.println("project");
+
+			System.out.println("ram");
+			System.out.println("raj");
+
+			System.out.println("hi");
+			System.out.println("project");
+
 		}
 		
 	}
